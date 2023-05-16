@@ -47,7 +47,8 @@ less
 lftp
 libfido2
 libusb-compat
-linux
+linux-zen
+linux-zen-headers
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -133,11 +134,11 @@ zsh
 ###             VIA CALAMARES CONFIG                ###
 #######################################################
 
-alci-dwm
+#alci-dwm
 #alci-dwm-nemesis
 alci-calamares
 #alci-calamares-dev
-alci-calamares-config
+#alci-calamares-config
 #alci-calamares-config-btrfs
 #alci-calamares-config-dev
 #alci-calamares-config-hardened
@@ -145,11 +146,26 @@ alci-calamares-config
 #alci-calamares-config-pure
 #alci-calamares-config-xanmod
 #alci-calamares-config-zen
-xterm
+#xterm
 
 #######################################################
 ###      PACKAGES THAT STAY AFTER INSTALLATION      ###
 #######################################################
+
+#pangolin-desktop-bin
+
+i3-for-aurum
+polybar
+picom
+nitrogen
+plank
+
+nemo
+
+xfce4-terminal
+xfce4-screenshooter
+
+firefox
 
 sddm
 bash-completion
@@ -163,8 +179,8 @@ xorg-xrdb
 mkinitcpio-openswap
 
 ##### you can also use nmtui from the terminal
-#networkmanager
-#network-manager-applet
+networkmanager
+network-manager-applet
 
 #######################################################
 ###                    EXTRAS                       ###
@@ -176,6 +192,11 @@ mkinitcpio-openswap
 #xorg-apps
 #neofetch
 
+papirus-icon-theme
+neofetch-aurum
+bibata-cursor-theme
+materia-gtk-theme
+materia-kde
 
 ##### Drivers for graphical cards
 
@@ -202,7 +223,7 @@ mkinitcpio-openswap
 
 ##### sddm display manager
 
-#sddm
+sddm
 #alci-sddm-plasma-archpaint
 
 ##### gdm display manager
@@ -255,7 +276,7 @@ mkinitcpio-openswap
 #update the database
 
 #test
-#nemesis-wallpapers
+nemesis-wallpapers
 
 
 #### want have a btrfs format
@@ -264,7 +285,7 @@ mkinitcpio-openswap
 #timeshift
 #grub-btrfs
 #timeshift-autosnap
-git
+#git
 
 #grub theme
-alci-grub-theme-git
+#alci-grub-theme-git

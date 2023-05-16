@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="archlinux"
-iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Arch Linux <https://archlinux.org>"
-iso_application="Arch Linux Live/Rescue CD"
-iso_version="$(date +%Y.%m.%d)"
-install_dir="arch"
+iso_name="aurumstandard"
+iso_label="aurumOS.Standard_0.05.23-alpha"
+iso_publisher="Andrii Murha <https://andrew-llcoder.github.io>"
+iso_application="aurumOS.Standard"
+iso_version="0.05.23-alpha"
+install_dir="aurum"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
            'uefi-ia32.grub.esp' 'uefi-x64.grub.esp'

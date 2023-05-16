@@ -1,0 +1,11 @@
+NAME="aurumOS"
+PRETTY_NAME="aurumOS"
+ID=aurum
+BUILD_ID=rolling
+ANSI_COLOR="31;209"
+HOME_URL="https://lexchen-community.github.io/aurumOS/index.php"
+DOCUMENTATION_URL="https://lexchen-community.github.io/lexdocs/aurumOS/"
+SUPPORT_URL="https://lexchen-community.github.io/aurumOS/support.php"
+BUG_REPORT_URL="https://lexchen-community.github.io/aurumOS/bugreport.php"
+PRIVACY_POLICY_URL="https://lexchen-community.github.io/aurumOS/privacy_policy.php"
+LOGO=aurum-logo
