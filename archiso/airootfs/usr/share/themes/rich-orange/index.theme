@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Orange
+Comment=A light modern design theme with orange highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-orange
+MetacityTheme=rich-titlebars
+IconTheme=BF-orange
+ButtonLayout=menu:minimize,maximize,close

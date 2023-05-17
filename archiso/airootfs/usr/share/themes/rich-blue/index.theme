@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Blue
+Comment=A light modern design theme with blue highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-blue
+MetacityTheme=rich-titlebars
+IconTheme=BF-blue
+ButtonLayout=menu:minimize,maximize,close

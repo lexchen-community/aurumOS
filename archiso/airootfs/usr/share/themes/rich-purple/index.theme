@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Purple
+Comment=A light modern design theme with purple highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-purple
+MetacityTheme=rich-titlebars
+IconTheme=BF-purple
+ButtonLayout=menu:minimize,maximize,close

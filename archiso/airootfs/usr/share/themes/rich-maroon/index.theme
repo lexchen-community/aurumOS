@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Maroon
+Comment=A light modern design theme with maroon highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-maroon
+MetacityTheme=rich-titlebars
+IconTheme=BF-maroon
+ButtonLayout=menu:minimize,maximize,close

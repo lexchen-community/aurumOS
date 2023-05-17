@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Brown
+Comment=A light modern design theme with brown highlights and tan neutral colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-brown
+MetacityTheme=richdust-titlebars
+IconTheme=BF-brown
+ButtonLayout=menu:minimize,maximize,close

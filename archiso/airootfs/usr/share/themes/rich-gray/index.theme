@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Gray
+Comment=A light modern design theme with gray highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-gray
+MetacityTheme=rich-titlebars
+IconTheme=BF-gray
+ButtonLayout=menu:minimize,maximize,close

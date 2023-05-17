@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Jade
+Comment=A light modern design theme with jade highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-jade
+MetacityTheme=rich-titlebars
+IconTheme=BF-jade
+ButtonLayout=menu:minimize,maximize,close

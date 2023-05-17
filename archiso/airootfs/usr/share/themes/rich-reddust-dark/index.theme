@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Reddust Dark
+Comment=A dark modern design theme with red highlights and dark brown neutral colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-reddust-dark
+MetacityTheme=richdust-titlebars-dark
+IconTheme=BF-red-dark
+ButtonLayout=menu:minimize,maximize,close

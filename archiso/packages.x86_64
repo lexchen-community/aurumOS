@@ -154,11 +154,13 @@ alci-calamares
 
 #pangolin-desktop-bin
 
-i3-for-aurum
+openbox
 polybar
 picom
 nitrogen
 plank
+
+lxappearance
 
 nemo
 

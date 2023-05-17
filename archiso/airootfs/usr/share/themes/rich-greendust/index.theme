@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Greendust
+Comment=A light modern design theme with green highlights and tan neutral colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-greendust
+MetacityTheme=richdust-titlebars
+IconTheme=BF-green
+ButtonLayout=menu:minimize,maximize,close

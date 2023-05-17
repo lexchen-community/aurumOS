@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Golddust
+Comment=A light modern design theme with gold highlights and tan neutral colors
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-golddust
+MetacityTheme=richdust-titlebars
+IconTheme=BF-gold
+ButtonLayout=menu:minimize,maximize,close

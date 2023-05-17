@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Gold Dark
+Comment=A dark modern design theme with gold highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-gold-dark
+MetacityTheme=rich-titlebars-dark
+IconTheme=BF-gold-dark
+ButtonLayout=menu:minimize,maximize,close

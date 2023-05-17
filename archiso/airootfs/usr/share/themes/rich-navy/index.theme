@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Navy
+Comment=A light modern design theme with navy highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-navy
+MetacityTheme=rich-titlebars
+IconTheme=BF-navy
+ButtonLayout=menu:minimize,maximize,close

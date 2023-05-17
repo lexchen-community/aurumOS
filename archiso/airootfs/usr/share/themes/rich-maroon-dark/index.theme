@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Maroon Dark
+Comment=A dark modern design theme with maroon highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-maroon-dark
+MetacityTheme=rich-titlebars-dark
+IconTheme=BF-maroon-dark
+ButtonLayout=menu:minimize,maximize,close

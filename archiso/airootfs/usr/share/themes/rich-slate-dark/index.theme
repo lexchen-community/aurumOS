@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Slate Dark
+Comment=A dark modern design theme with slate highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-slate-dark
+MetacityTheme=rich-titlebars-dark
+IconTheme=BF-slate-dark
+ButtonLayout=menu:minimize,maximize,close

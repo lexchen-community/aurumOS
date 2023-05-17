@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Green Dark
+Comment=A dark modern design theme with green highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-green-dark
+MetacityTheme=rich-titlebars-dark
+IconTheme=BF-green-dark
+ButtonLayout=menu:minimize,maximize,close

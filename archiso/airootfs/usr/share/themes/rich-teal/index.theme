@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Teal
+Comment=A light modern design theme with teal highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-teal
+MetacityTheme=rich-titlebars
+IconTheme=BF-teal
+ButtonLayout=menu:minimize,maximize,close

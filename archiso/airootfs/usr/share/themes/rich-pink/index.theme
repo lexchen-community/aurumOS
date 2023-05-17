@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Pink
+Comment=A light modern design theme with pink highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-pink
+MetacityTheme=rich-titlebars
+IconTheme=BF-pink
+ButtonLayout=menu:minimize,maximize,close

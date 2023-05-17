@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Red
+Comment=A light modern design theme with red highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-red
+MetacityTheme=rich-titlebars
+IconTheme=BF-red
+ButtonLayout=menu:minimize,maximize,close

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Indigo Dark
+Comment=A dark modern design theme with indigo highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-indigo-dark
+MetacityTheme=rich-titlebars-dark
+IconTheme=BF-indigo-dark
+ButtonLayout=menu:minimize,maximize,close

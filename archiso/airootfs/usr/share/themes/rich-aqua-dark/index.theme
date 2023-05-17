@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Rich Aqua Dark
+Comment=A dark modern design theme with aqua highlights
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=rich-aqua-dark
+MetacityTheme=rich-titlebars-dark
+IconTheme=BF-aqua-dark
+ButtonLayout=menu:minimize,maximize,close
