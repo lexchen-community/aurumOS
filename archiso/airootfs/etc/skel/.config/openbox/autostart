@@ -4,3 +4,4 @@ nitrogen --restore &
 picom &
 plank &
 polybar &
+sudo calamares &

@@ -159,6 +159,7 @@ polybar
 picom
 nitrogen
 plank
+rofi
 
 lxappearance
 
@@ -240,7 +241,7 @@ sddm
 
 ##### want to have linux-headers
 
-#linux-headers
+linux-zen-headers
 
 
 
@@ -279,6 +280,10 @@ sddm
 
 #test
 nemesis-wallpapers
+
+vlc
+flameshot
+foliate
 
 
 #### want have a btrfs format

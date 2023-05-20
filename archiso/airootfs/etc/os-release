@@ -1,7 +1,7 @@
 NAME="aurumOS"
 PRETTY_NAME="aurumOS"
 ID=aurumOS
-BUILD_ID=rolling
+BUILD_ID=standard
 ANSI_COLOR="31;209"
 HOME_URL="https://lexchen-community.github.io/aurumOS/index.php"
 DOCUMENTATION_URL="https://lexchen-community.github.io/lexdocs/aurumOS/"
