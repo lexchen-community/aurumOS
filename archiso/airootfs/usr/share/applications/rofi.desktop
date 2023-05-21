@@ -1,5 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Rofi
-GenericName=Apps menu
-Exec=/usr/bin/rofi -show drun
