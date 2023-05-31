@@ -1,0 +1,26 @@
+name: Create New Issue
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Create Issue
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const title = "New Issue Created";
+            const body = "A new push event occurred on the main branch.";
+            const { data } = await github.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body
+            });
+            console.log(`New issue created: ${data.html_url}`);
