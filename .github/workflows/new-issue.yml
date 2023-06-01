@@ -1,9 +1,6 @@
 name: Create New Issue
 
-on:
-  push:
-    branches:
-      - main
+on: [pull_request_target]
 
 jobs:
   create_issue:
