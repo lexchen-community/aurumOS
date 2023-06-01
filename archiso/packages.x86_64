@@ -154,19 +154,19 @@ alci-calamares
 
 #pangolin-desktop-bin
 
-openbox
-polybar
-picom
-nitrogen
-plank
-rofi
+#openbox
+#polybar
+#picom
+#nitrogen
+#plank
+#rofi
 
-lxappearance
+#lxappearance
 
-nemo
+#nemo
 
-xfce4-terminal
-xfce4-screenshooter
+#xfce4-terminal
+#xfce4-screenshooter
 
 firefox
 
